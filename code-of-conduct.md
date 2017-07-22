@@ -45,7 +45,7 @@ contact; and unwelcome sexual attention.
 Our expectation is that we will treat each other, and others our community
 interacts with, with consideration, empathy, and respect. Our speech and behavior
 will be guided by a desire to create and maintain an inclusive community purposed
-towards sharing knowledge and encouraging enthusiasm for solving problems with PHP.
+towards sharing knowledge and encouraging enthusiasm for solving problems with APIs.
 
 ## Consequences of Unacceptable Behavior
 
