@@ -1,4 +1,4 @@
-# Code of Conduct – API City - APIs and IPAs
+# Code of Conduct – API City: APIs and IPAs
 
 ## Purpose
 
