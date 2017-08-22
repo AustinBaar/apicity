@@ -1,8 +1,8 @@
-# Code of Conduct – API City: APIs and IPAs
+# Code of Conduct – API City Conference and APIs and IPAs Meetup
 
 ## Purpose
 
-The APIs and IPAs group is a volunteer-run
+This group is a volunteer-run
 user group, and invites anyone with a desire to talk and learn about APIs and
 related technologies to gather together, share their knowledge, and promote the
 API community in the Seattle, WA, and Puget Sound area.
@@ -71,8 +71,8 @@ in person at an event.
 
 The current organizers are:
 
-* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero))
-* Margaret Staples ([@dead_lugosi](https://twitter.com/dead_lugosi))
+* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero)) info@apicity.io
+
 
 If you have a complaint that involves an organizer, you can contact one of the
 others in confidence. The group is the priority, and steps will be taken to
