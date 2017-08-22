@@ -65,8 +65,8 @@ or notify others, if unacceptable behaviors are occurring at a meeting or event.
 
 If you are subject to or witness unacceptable behavior, or have any other
 concerns, please notify a community organizer as soon as possible. You can
-contact the organizers at tessa@seaphp.com, send a direct message to
-[@seaphp](https://twitter.com/seattleapis) on twitter, or speak to an organizer
+contact the organizers at info@apicity.io, send a direct message to
+[@apicityconf](https://twitter.com/apicityconf) on twitter, or speak to an organizer
 in person at an event.
 
 The current organizers are:
