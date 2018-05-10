@@ -65,13 +65,13 @@ or notify others, if unacceptable behaviors are occurring at a meeting or event.
 
 If you are subject to or witness unacceptable behavior, or have any other
 concerns, please notify a community organizer as soon as possible. You can
-contact the organizers at info@apicity.io, send a direct message to
+contact the organizers at contact@apicity.io, send a direct message to
 [@apicityconf](https://twitter.com/apicityconf) on twitter, or speak to an organizer
 in person at an event.
 
 The current organizers are:
 
-* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero)) info@apicity.io
+* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero)) contact@apicity.io
 
 
 If you have a complaint that involves an organizer, you can contact one of the
